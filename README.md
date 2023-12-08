@@ -135,7 +135,6 @@ This is an example of how to list things you need to use the software and how to
 1. Run 'npm init' in the command-line
 2. Run 'npm install inquirer@8.2.4' in the command line
 3. Run 'npm install --save-dev jest' in the command line
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,7 +214,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Gavin Meyer | Email: gpmeyer24@gmail.com | GitHub: gmeyer24
 
-Project Link: [https://github.com/gmeyer24/HW10-Object-oriented-Programming-SVG-Logo-Maker](https://github.com/gmeyer24/HW10-Object-oriented-Programming-SVG-Logo-Maker)
+Project Link: [HW10-Object-oriented-Programming-SVG-Logo-Maker](https://github.com/gmeyer24/HW10-Object-oriented-Programming-SVG-Logo-Maker)
 
 Walkthrough Video Link: [Walkthrough Video Link]()
 
