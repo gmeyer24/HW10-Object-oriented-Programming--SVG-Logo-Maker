@@ -91,7 +91,7 @@ The goal of this project was to build a Node.js command-line application that ta
 
 ### Walkthrough Video
 
-* [Walkthrough Video Link](https://watch.screencastify.com/v/ZKig9pzMyNoab8beqw8p)
+* [Walkthrough Video Link](https://drive.google.com/file/d/1X3Bk0KVGmE_x106MW8r8zt3z0udGFK5U/view?usp=drive_link)
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gmeyer24`, `HW10-Object-oriented-Programming-SVG-Logo-Maker`, `gavinpmeyer`, `gmail`, `gpmeyer24`, `HW10-Object-oriented-Programming-SVG-Logo-Maker`, `project_description` -->
 
@@ -216,7 +216,7 @@ Gavin Meyer | Email: gpmeyer24@gmail.com | GitHub: gmeyer24
 
 Project Link: [HW10-Object-oriented-Programming-SVG-Logo-Maker](https://github.com/gmeyer24/HW10-Object-oriented-Programming-SVG-Logo-Maker)
 
-Walkthrough Video Link: [Walkthrough Video Link](https://watch.screencastify.com/v/ZKig9pzMyNoab8beqw8p)
+Walkthrough Video Link: [Walkthrough Video Link](https://drive.google.com/file/d/1X3Bk0KVGmE_x106MW8r8zt3z0udGFK5U/view?usp=drive_link)
 
 <!-- Deployed Link: [https://gmeyer24.github.io/HW10-Object-oriented-Programming-SVG-Logo-Maker](https://gmeyer24.github.io/HW10-Object-oriented-Programming-SVG-Logo-Maker) -->
 
