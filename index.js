@@ -33,6 +33,7 @@ const questions = [
   },
 ];
 
+// function to generates svg file
 function generateSVG(shape, text, textColor, shapeColor) {
   let newShape;
 
@@ -51,6 +52,7 @@ function generateSVG(shape, text, textColor, shapeColor) {
       return;
   }
 
+  // writes the svg file
   fs.writeFile("logo.svg", newShape.render(), (err) => {
     if (err) {
       console.error("Error creating logo.svg:", err);
