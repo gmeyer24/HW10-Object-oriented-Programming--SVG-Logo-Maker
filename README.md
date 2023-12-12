@@ -153,7 +153,7 @@ This is an example of how to list things you need to use the software and how to
 
 * Image of prompts and responses below:
 
-![Alt text](Assets/images/prompts.png)
+![Alt text](Assets/images/prompt-example.png)
 
 ### Run Test-Driven Development (TDD)
 
